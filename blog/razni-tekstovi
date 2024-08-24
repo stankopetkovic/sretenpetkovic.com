@@ -1,0 +1,434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="RSS - Razni tekstovi" href="https://sretenpetkovic.com/taxonomy/term/29/feed" />
+<link rel="canonical" href="/blog/razni-tekstovi" />
+<link rel="shortlink" href="/taxonomy/term/29" />
+<meta about="/blog/razni-tekstovi" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="Razni tekstovi" />
+<link rel="shortcut icon" href="https://sretenpetkovic.com/sites/default/files/library-icon.png" type="image/png" />
+  <title>"sreten s petkovic" | Razni tekstovi | Sreten S Petković</title>
+  <link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/sites/default/files/css/css_8_QKQjo6I581bcQ12ZUCISW0l2jx1UMxP2MwerCfG4w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/sites/default/files/css/css_L5u7ixVhDo8L0L9-p0J71hwybH-5dW7i3ddwBQwSp3Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/sites/default/files/css/css_ir34aOcYkmgW3LTh6Qnmzt19BKTGMPbHTc9eFDtdSEA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/themes/bartik/css/ie.css?pa3ybu" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/themes/bartik/css/ie6.css?pa3ybu" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://sretenpetkovic.com/sites/default/files/css/css_mjdBRXSXyVrQ-r3hAeG34WpbrA71c0nraMBqrENr0hA.css" media="all" />
+  <script type="text/javascript" src="https://sretenpetkovic.com/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="https://sretenpetkovic.com/sites/default/files/js/js_lboD8mxHbiFYKzdGkJi9JvFQWJGyCslzWjcNjvVR3X0.js"></script>
+<script type="text/javascript" src="https://sretenpetkovic.com/sites/default/files/js/js_gjVsHgoH2uFLCYGfjWqoT42kaP1z22XaSHiWcibQLSU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-24323328-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"haVLhaPYNxOwaP5KE-kAi4tzClvEYtjAMAkl-8gKkEM","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"modules\/taxonomy\/taxonomy.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1,"public:\/\/css_injector\/css_injector_4.css":1,"public:\/\/css_injector\/css_injector_5.css":1,"public:\/\/css_injector\/css_injector_6.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_8.css":1}},"viewsSlideshow":{"blog_reklame-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"korice_knjiga-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_blog_reklame-block_1":{"num_divs":27,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"blog_reklame-block_1","effect":"fade","transition_advanced":1,"timeout":3000,"speed":700,"delay":0,"sync":1,"random":1,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"},"#views_slideshow_cycle_main_korice_knjiga-block_1":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"korice_knjiga-block_1","effect":"fade","transition_advanced":1,"timeout":10000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-29" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://sretenpetkovic.com/sites/default/files/miroslavljevo%20jevandjelje%20znak%20manji_1.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>Sreten S Petković</span></a>
+              </strong>
+            </div>
+                  
+                  <div id="site-slogan">
+            Bodljikava kora sna          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-400 first"><a href="/blog" title="">Blog</a></li>
+<li class="menu-994"><a href="/neobjavljene_knjige" title="">Neobjavljene Knjige</a></li>
+<li class="menu-399"><a href="/knjige" title="">Objavljene Knjige</a></li>
+<li class="menu-398 last"><a href="/o-piscu">O Piscu</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></div>
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-views-blog-reklame-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-blog-reklame view-id-blog_reklame view-display-id-block view-dom-id-469141b620317b09ba4ef6f81e8dae59">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_blog_reklame-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_blog_reklame-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_blog_reklame-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/gospodar-konjske-pameti">Gospodar konjske pameti</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/gospodar-konjske-pameti"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/zenska%20vrata%20mala.jpg?itok=K_HiDKPp" width="67" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/granica-sna-ili-me%C4%91-dna-slika-2">Granica sna ili međa dna - slika 2.</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/granica-sna-ili-me%C4%91-dna-slika-2"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/declaration-independency.jpg?itok=w1X5Tw4P" width="100" height="64" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/granica-sna-ili-me%C4%91-dna-slika-1">Granica sna ili međa dna - slika 1.</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/granica-sna-ili-me%C4%91-dna-slika-1"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/Penguins.jpg?itok=qXhzZUMS" width="100" height="75" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/granica-sna-ili-medje-dna-lica">Granica sna ili Medje dna - Lica</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/granica-sna-ili-medje-dna-lica"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/masks.jpg?itok=o-prosAk" width="100" height="84" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/granica-sna-ili-medja-dna-0">Granica sna ili medja dna</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/granica-sna-ili-medja-dna-0"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/theater-masks_0.jpg?itok=NZ_i3tDf" width="80" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_5" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/birds-desolate-sky">Birds in the desolate sky</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/birds-desolate-sky"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/desert%20sky.JPG?itok=VYrWWuhQ" width="100" height="75" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_6" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/re%C4%8D-koja-remeti-um-filip-mladenovi%C4%87-novinar">Reč koja remeti um - Filip Mladenović, novinar</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/re%C4%8D-koja-remeti-um-filip-mladenovi%C4%87-novinar"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/PA071200.JPG?itok=oUwvGiNM" width="75" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_7" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes-i-za-pojas-zadeni">Bes - ...i za pojas zadeni</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes-i-za-pojas-zadeni"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/frula.jpg?itok=4oovbF0P" width="75" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_8" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-9 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes-nastavak-35k-43k">Bes - nastavak (35.k.-43.k)</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes-nastavak-35k-43k"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/police%20chase.jpg?itok=ZJbSyiTC" width="100" height="42" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_9" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-10 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes-nastavak-25k-34k">Bes - nastavak (25.k.-34.k)</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes-nastavak-25k-34k"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/Lighthouse.jpg?itok=LDO8sTFx" width="100" height="75" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_10" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-11 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes-nastavak-11k-24k">Bes - nastavak (11.k.-24.k)</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes-nastavak-11k-24k"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/cesma%20obrenovica.jpg?itok=J2qmKKJp" width="75" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_11" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-12 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes-crveni-vetar-legenda-o-ludom-milojku">Bes - Crveni vetar - Legenda o Ludom Milojku</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes-crveni-vetar-legenda-o-ludom-milojku"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/vatra.jpg?itok=xBJXTEC8" width="74" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_12" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-13 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes-instrukcija">Bes - Instrukcija</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes-instrukcija"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/Halloween-H20.jpg?itok=-RNYBRaW" width="100" height="63" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_13" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-14 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/size">Bes - Siže</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/size"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/lightning-tornado.jpg?itok=WRQWBAJf" width="100" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_14" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-15 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes-lica">Bes - Lica</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes-lica"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/Jellyfish.jpg?itok=UrGBKrHF" width="100" height="75" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_15" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-16 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/bes">„BES“</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/bes"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/fire.jpg?itok=H_xC1YlW" width="100" height="100" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_16" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-17 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/dandelion-and-carob-cake">A dandelion and carob cake</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/dandelion-and-carob-cake"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/2975.jpg?itok=X8OpjorD" width="100" height="75" alt="" title="A dandelion and carob cake" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_17" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-18 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/kako-ono-bese-kad-su-se-sreli-marko-i-musa">Kako ono beše kad su se sreli Marko i Musa?</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/kako-ono-bese-kad-su-se-sreli-marko-i-musa"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/marko.jpg?itok=leBOUauH" width="86" height="100" alt="" title="Marko" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_18" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-19 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/kakav-je-konjski-zivot">Kakav je to konjski život?</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/kakav-je-konjski-zivot"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/arabian-horse8.jpg?itok=qhZninOk" width="94" height="100" alt="" title="Kakav je to konjski život?" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_19" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-20 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/kako-je-nastala-pesma">Kako je nastala pesma?</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/kako-je-nastala-pesma"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/polar%20lights.jpg?itok=MRyGTYi2" width="100" height="66" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_20" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-21 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/kapetan-tri-price">Kapetan tri priče</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/kapetan-tri-price"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/hms_victory_at_trafalgar_1.JPG?itok=fpOWgHhb" width="100" height="73" alt="" title="Kapetan tri priče" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_21" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-22 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/sta-je-karate">Šta je to karate?</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/sta-je-karate"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/karate-master-manja.jpg?itok=ahMbXDNl" width="100" height="98" alt="" title="Šta je to karate?" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_22" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-23 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/cutim">Ćutim</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/cutim"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/mount-everest_0.jpg?itok=fwEWQrqc" width="100" height="80" alt="" title="Ćutim" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_23" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-24 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/kome-je-i-zasto-drina-kriva"> Kome je i zašto Drina kriva?</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/kome-je-i-zasto-drina-kriva"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/Drina-river-serbia-bosnia_0.jpg?itok=fFUxmemD" width="100" height="72" alt="" title="Drina" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_24" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-25 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/mudraci-od-prakse">Mudraci od prakse</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/mudraci-od-prakse"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/group-of-judges.jpg?itok=Sh90K1PE" width="100" height="76" alt="" title="Mudraci od prakse" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_25" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-26 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/zasto-je-prvo-slovo">Zašto je A prvo slovo?</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/zasto-je-prvo-slovo"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/out-campaign-a.jpg?itok=BqNpk-Ph" width="100" height="97" alt="" title="Zašto je A prvo slovo?" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_blog_reklame-block_1_26" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-27 views_slideshow_cycle_hidden views-row-last views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-title">        <h3 class="field-content"><a href="/blog/kolac-od-maslacka-i-rogaca">Kolač od maslačka i rogača</a></h3>  </div>  
+  <div class="views-field views-field-field-slika">        <div class="field-content"><a href="/blog/kolac-od-maslacka-i-rogaca"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/maslacak2.jpg?itok=b1qDBuqA" width="100" height="92" alt="" title="Kolač od maslačka i rogača" /></a></div>  </div></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-system-navigation" class="block block-system block-menu">
+
+    <h2>Blog</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first expanded"><a href="/blog/scenario" title="scenario">scenario</a><ul class="menu clearfix"><li class="first leaf"><a href="/blog/scenario/bes" title="Bes">Bes</a></li>
+<li class="last leaf"><a href="/blog/granica-sna-ili-medja-dna" title="Granica sna ili medja dna">Granica sna ili medja dna</a></li>
+</ul></li>
+<li class="leaf active-trail"><a href="/blog/razni-tekstovi" title="Razni tekstovi" class="active-trail active">Razni tekstovi</a></li>
+<li class="expanded"><a href="/blog/zbirka-prica" title="zbirka prica">zbirka prica</a><ul class="menu clearfix"><li class="first last leaf"><a href="/blog/zbirka-prica/cudne-stvari" title="Cudne stvari">Cudne stvari</a></li>
+</ul></li>
+<li class="expanded"><a href="/blog/roman" title="roman">roman</a><ul class="menu clearfix"><li class="first leaf"><a href="/blog/roman/rembrant-mlinarev-sin" title="Rembrant, mlinarev sin">Rembrant, mlinarev sin</a></li>
+<li class="leaf"><a href="/blog/zenska-vrata-dnevnik-rose" title="Zenska Vrata - Dnevnik rose">Zenska Vrata - Dnevnik rose</a></li>
+<li class="last leaf"><a href="/blog/roman/rembrandt-millers-son" title="Rembrandt, the miller&#039;s son">Rembrandt, the miller&#039;s son</a></li>
+</ul></li>
+<li class="last expanded"><a href="/blog/zbirka-pesama" title="zbirka pesama">zbirka pesama</a><ul class="menu clearfix"><li class="first leaf"><a href="/blog/zbirka-pesama/pesme-o-pitanjima" title="Pesme o Pitanjima">Pesme o Pitanjima</a></li>
+<li class="last leaf"><a href="/blog/zbirka-pesama/nesortirane-pesme" title="nesortirane pesme">nesortirane pesme</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+<div id="block-views-korice-knjiga-block" class="block block-views">
+
+    <h2>Objavljene knjige</h2>
+  
+  <div class="content">
+    <div class="view view-korice-knjiga view-id-korice_knjiga view-display-id-block view-dom-id-aafc23add091d954418ede35a37d2fb0">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_korice_knjiga-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_korice_knjiga-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_korice_knjiga-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-korice">        <div class="field-content koreice-knjiga-blok"><a href="/knjige/zenska-vrata-dnevnik-rose"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/medium/public/zenska%20vrata%20velika.jpg?itok=Ki-89UGG" width="148" height="220" alt="" title="Zenska vrata - Dnevnik rose" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/knjige/zenska-vrata-dnevnik-rose">Zenska vrata - Dnevnik rose</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_korice_knjiga-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-korice">        <div class="field-content koreice-knjiga-blok"><a href="/knjige/rembrandt-millers-son"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/medium/public/Rembrant%20ENG.jpg?itok=5XHbjTV_" width="154" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/knjige/rembrandt-millers-son">Rembrandt, the miller&#039;s son</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_korice_knjiga-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-korice">        <div class="field-content koreice-knjiga-blok"><a href="/knjige/pesme-o-pitanjima"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/medium/public/pesme%20o%20pitanjima%20manja.jpg?itok=p-s0aiFJ" width="158" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/knjige/pesme-o-pitanjima">Pesme o pitanjima</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_korice_knjiga-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-korice">        <div class="field-content koreice-knjiga-blok"><a href="/knjige/rembrant-mlinarev-sin"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/medium/public/Rembrant%20SRP.jpg?itok=1yV0w7l5" width="154" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/knjige/rembrant-mlinarev-sin">Rembrant, mlinarev sin</a></span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_korice_knjiga-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-last views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-korice">        <div class="field-content koreice-knjiga-blok"><a href="/knjige/cudne-stvari"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/medium/public/cudne_stvari.jpg?itok=BsqkWu5W" width="131" height="220" alt="" title="Čudne stvari" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/knjige/cudne-stvari">Čudne stvari</a></span>  </div></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Razni tekstovi        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="term-listing-heading"><div id="taxonomy-term-29" class="taxonomy-term vocabulary-tip">
+
+  
+  <div class="content">
+      </div>
+
+</div>
+</div><div id="node-31" class="node node-unos-bloga node-teaser clearfix" about="/blog/re%C4%8D-koja-remeti-um-filip-mladenovi%C4%87-novinar" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/blog/re%C4%8D-koja-remeti-um-filip-mladenovi%C4%87-novinar">Reč koja remeti um - Filip Mladenović, novinar</a>
+    </h2>
+    <span property="dc:title" content="Reč koja remeti um - Filip Mladenović, novinar" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-slika field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/blog/re%C4%8D-koja-remeti-um-filip-mladenovi%C4%87-novinar"><img typeof="foaf:Image" src="https://sretenpetkovic.com/sites/default/files/styles/thumbnail/public/PA071200.JPG?itok=oUwvGiNM" width="75" height="100" alt="" /></a></div></div></div><div class="field field-name-field-text field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+	<span style="font-size: 14px;">Intervju iz 2008. godine koji je vodio Filip Mladenović, novinar Radio Beograda 202, sa Sretenom S Petkovićem, književnikom</span></p>
+<p>
+	<span style="font-size: 14px;"><strong>Reč koja remeti um</strong></span></p>
+<p>
+	 </p>
+<p>
+	<span style="font-size: 14px;">Intervju je vođen pre drugog izadanja romana ,,Rembrant, mlinarev sin"</span></p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/blog/re%C4%8D-koja-remeti-um-filip-mladenovi%C4%87-novinar" rel="tag" title="Reč koja remeti um - Filip Mladenović, novinar">Read more<span class="element-invisible"> about Reč koja remeti um - Filip Mladenović, novinar</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      <a href="/taxonomy/term/29/feed" class="feed-icon" title="Subscribe to RSS - Razni tekstovi"><img typeof="foaf:Image" src="https://sretenpetkovic.com/misc/feed.png" width="16" height="16" alt="Subscribe to RSS - Razni tekstovi" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p class="rtecenter">
+	<span style="font-size: 9px;">created by: stanmark</span><br /><span style="font-size: 9px;">stanmark(at)gmail.com</span><br /><span style="font-size: 9px;">Beograd, Jul 2011.</span></p>
+  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>
